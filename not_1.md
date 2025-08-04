@@ -16,8 +16,6 @@ Yeni bir Controller dosyası oluşturmak için Artisan konsol komutunu kullanır
 php artisan make:controller PostController
 ```
 
-> **Not:** Orijinal nottaki `make:contoller` komutunda yazım hatası vardı, doğrusu `make:controller` şeklindedir.
-
 ---
 
 ## 2. Controller'ı Route'a Bağlama
