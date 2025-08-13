@@ -14,6 +14,9 @@ Aşağıdaki tabloda, işlenen konulara ve ilgili not dosyalarına ulaşabilirsi
 |:------- |:------------------------------- |:---------------------- |
 | 1       | Controller ve Routing Temelleri | [not_1.md](./not_1.md) |
 | 2       | View ve Blade Şablon Motoru     | [not_2.md](./not_2.md) |
+| 3       | Route Detayları ve İsimlendirme | [not_3.md](./not_3.md) |
+| 4       | Request Sınıfı ve Form Verileri | [not_4.md](./not_4.md) |
+
 
 ---
 
