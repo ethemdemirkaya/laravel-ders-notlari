@@ -16,6 +16,8 @@ Aşağıdaki tabloda, işlenen konulara ve ilgili not dosyalarına ulaşabilirsi
 | 2       | View ve Blade Şablon Motoru     | [not_2.md](./not_2.md) |
 | 3       | Route Detayları ve İsimlendirme | [not_3.md](./not_3.md) |
 | 4       | Request Sınıfı ve Form Verileri | [not_4.md](./not_4.md) |
+| 5       | Form Validation & Hata Yönetimi | [not_5.md](./not_5.md) |
+| 6       | Middleware (Ara Katman) Kullanımı| [not_6.md](./not_6.md) |
 
 
 ---
